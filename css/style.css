@@ -358,6 +358,10 @@ p {
     color: #FFF;
     font-weight: lighter;
 }
+/*PARTE DEL COLOR PARA LA ZONA DEL BLOG*/
+.blog-section {
+    background:#EEEEEE;
+}
 .primary-section {
     background:#181A1C;
 }
@@ -382,6 +386,10 @@ p {
 .secondary-section h1, .secondary-section .title p {
     color: #181A1C;
 }
+/*PARTE DEL COLOR PARA LA ZONA DEL TELEFONO*/
+.telefono-section {
+    background: #EEEEEE;
+}
 /* Third section use bacground image */
 .third-section {
     padding-bottom: 70px;
@@ -402,6 +410,7 @@ p {
 .sub-section .title {
     padding:0;
 }
+
 /*******
 3.1 Services  
 ***************************************/
